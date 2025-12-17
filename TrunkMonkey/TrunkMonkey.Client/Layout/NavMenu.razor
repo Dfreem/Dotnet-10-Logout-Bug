@@ -74,7 +74,7 @@
 
     protected override void OnInitialized()
     {
-        currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.BaseUri);
         NavigationManager.LocationChanged += OnLocationChanged;
     }
 

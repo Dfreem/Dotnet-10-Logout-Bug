@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/TrunkMonkey/TrunkMonkey/appsettings.json
+/TrunkMonkey/TrunkMonkey/appsettings.Development.json
+/TrunkMonkey.AppHost/appsettings.json
