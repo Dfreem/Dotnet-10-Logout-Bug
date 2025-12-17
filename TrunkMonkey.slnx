@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TrunkMonkey.AppHost/TrunkMonkey.AppHost.csproj" />
+  <Project Path="TrunkMonkey.ServiceDefaults/TrunkMonkey.ServiceDefaults.csproj" />
+  <Project Path="TrunkMonkey/TrunkMonkey.Client/TrunkMonkey.Client.csproj" />
+  <Project Path="TrunkMonkey/TrunkMonkey/TrunkMonkey.csproj" />
+</Solution>
